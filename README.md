@@ -8,7 +8,7 @@ The website is fully responsive and deployed using **GitHub Pages**.
 ## ✨ Project Overview
 
 This project represents a simple and clean **restaurant website UI** where users can:
-- View restaurant information
+- View restaurant 
 - Explore menu sections
 - Check services and offerings
 - Contact the restaurant
@@ -26,9 +26,9 @@ https://ambikesh-05.github.io/Restaurant-Management/
 
 ## 🧑‍💻 Website Sections
 
-- 🏠 **Home** – Restaurant introduction and banner
+- 🏠 **Home** – Restaurant name banner
 - 📋 **Menu** – Food items and categories
-- 🛎 **Services** – Restaurant services overview
+- 🛎 **About** – Restaurant about section 
 - 📞 **Contact** – Contact details and information
 - 🎨 **UI Design** – Clean and user-friendly layout
 
